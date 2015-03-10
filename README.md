@@ -5,3 +5,8 @@
 
 ## License
 - MIT License soon to come
+
+## Find out more:
+- about.md
+- hometown.md
+- student.md
