@@ -1,4 +1,4 @@
 # sap-example
 
-Hello world.
-Testing
+## How to get started
+- add some text
