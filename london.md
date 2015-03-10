@@ -1,0 +1,4 @@
+- Location: Duck and Waffle
+- Type: 24 Bar / Restaurant
+- Location: Duke of wellingtion
+- Type: Pub 
